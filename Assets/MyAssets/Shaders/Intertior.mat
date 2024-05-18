@@ -91,6 +91,10 @@ Material:
         m_Texture: {fileID: 8900000, guid: 81d932c4ce747b448b7832aafcfc43d9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SkyboxReflection:
+        m_Texture: {fileID: 8900000, guid: 54a3a0570aebe8949bec4966f1376581, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecularColorMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
