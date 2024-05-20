@@ -1,6 +1,6 @@
 # 3DGD_2024_ICA2_Tanaka_Shongwe
 
-Third PartyAssets 
+Third Party Assets 
 
 CGTrader. (n.d.). GTA 5 Ford Crown Victoria Police Car. Available at: https://www.cgtrader.com/free-3d-models/car/car/gta-5-ford-crown-victoria-police-car [Accessed 20 May 2024].
 
