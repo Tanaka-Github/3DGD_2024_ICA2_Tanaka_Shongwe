@@ -10,5 +10,8 @@ NoHat. (2022). Anarchy PNG Download PNG Image with Transparent Background - Anar
 CGTrader. (n.d.). Download Page for Item 274113. 
 Available at: https://www.cgtrader.com/items/274113/download-page [Accessed 15 May 2024].
 
+Sketchfab. (2016-03-15). Small Cobblestone Paving Cubes Pile [Free]. 
+Available at: https://sketchfab.com/3d-models/small-cobblestone-paving-cubes-pile-free-34772ddd60af42398b404f926d93217a 
+[Accessed 18 May 2024]. 
 
  
