@@ -175,7 +175,7 @@ MonoBehaviour:
     m_Value: {x: 1, y: 1, z: 1, w: 0.1935484}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 1, z: 1, w: 0}
+    m_Value: {x: 0.98264897, y: 0.96529794, z: 1, w: 0.47074142}
   highlights:
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
@@ -562,13 +562,13 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 120.6
+    m_Value: 115.7
   maximumHeight:
     m_OverrideState: 1
     m_Value: 125.9
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 50.5
+    m_Value: 37.2
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
@@ -580,7 +580,7 @@ MonoBehaviour:
     m_Value: 1
   depthExtent:
     m_OverrideState: 1
-    m_Value: 572.5
+    m_Value: 64.9
   denoisingMode:
     m_OverrideState: 1
     m_Value: 2
@@ -912,10 +912,10 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.115
+    m_Value: 0.138
   scatter:
     m_OverrideState: 1
-    m_Value: 0.053
+    m_Value: 1
   tint:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -951,11 +951,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   postExposure:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.4
   contrast:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: 27.1
   colorFilter:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}

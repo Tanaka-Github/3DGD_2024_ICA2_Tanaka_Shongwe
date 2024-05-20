@@ -127,8 +127,8 @@ MonoBehaviour:
       screenSpaceShadowBufferFormat: 48
     decalSettings:
       drawDistance: 1000
-      atlasWidth: 2048
-      atlasHeight: 2048
+      atlasWidth: 4026
+      atlasHeight: 4026
       perChannelMask: 1
     postProcessSettings:
       m_LutSize: 32
